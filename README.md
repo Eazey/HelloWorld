@@ -1,4 +1,7 @@
 # HelloWorld
-This is my frist repository.
 
-I love :running:  :computer:, and :chicken:.
+## hi, my name is wj
+
+This is my frist repository
+
+I like computer game.
